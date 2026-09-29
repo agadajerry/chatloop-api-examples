@@ -1,0 +1,16 @@
+{
+  "messages": [{
+    "id": "demo-message-001",
+    "messageId": "demo-message-001",
+    "from_me": false,
+    "chat_id": "14155552671@s.whatsapp.net",
+    "timestamp": 1790640000,
+    "channel_id": "replace-with-your-channel-id",
+    "from": "14155552671",
+    "from_name": "Demo sender",
+    "type": "text",
+    "body": { "text": "HELP" }
+  }],
+  "event": { "type": "messages", "event": "post" },
+  "channel_id": "replace-with-your-channel-id"
+}
